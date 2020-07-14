@@ -1,0 +1,9 @@
+pygame
+gtts
+os
+requests
+bs4
+bert-extractive-summarizer
+spacy
+transformers==2.2.2
+neuralcoref
