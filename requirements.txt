@@ -5,5 +5,5 @@ requests
 bs4
 bert-extractive-summarizer
 spacy
-transformers==2.2.2
+transformers==4.30.0
 neuralcoref
